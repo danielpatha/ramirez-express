@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/danielpatha/ramirez-express/issues"
   },
-  "homepage": "https://github.com/danielpatha/ramirez-express#readme"
+  "homepage": "https://github.com/danielpatha/ramirez-express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
